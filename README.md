@@ -12,7 +12,7 @@
 <li>Javascript</li>
 <br><br><br>
 you can see this project online 
-<a href="https://serajian.github.io/Analog_Clock-main/">here</a>
+<a href="https://serajian.github.io/Analog_Clock-main/" target="_blank">here</a>
 <br>Demo:
 <p align="center">
   <img src="./Demo.gif" width="500" title="hover text">
